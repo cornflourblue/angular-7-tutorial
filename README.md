@@ -7,10 +7,10 @@ A video tutorial series showing how to build an Angular 7 application step by st
 * [Part 2 - Create Base Project Structure & Webpack Config](https://jasonwatmore.com/post/2019/04/24/angular-7-tutorial-part-2-create-base-project-structure-webpack-config)
 * [Part 3 - Add Routing & Multiple Pages](https://jasonwatmore.com/post/2019/04/29/angular-7-tutorial-part-3-add-routing-multiple-pages)
 * [Part 4 - Login Form, Authentication Service & Route Guard](https://jasonwatmore.com/post/2019/05/17/angular-7-tutorial-part-4-login-form-authentication-service-route-guard)
+* [Part 5 - Registration Form & User Service](https://jasonwatmore.com/post/2019/05/22/angular-7-tutorial-part-5-registration-form-user-service)
 
 Next parts coming soon!
 
-* Part 5 - Registration Form & User Service
 * Part 6 - Home Page & Alert Component
 * Part 7 (Optional) - Migrating to an Angular CLI Project
 
